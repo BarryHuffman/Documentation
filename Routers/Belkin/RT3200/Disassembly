@@ -4,38 +4,50 @@ Disassemble the Belkin "RT3200", aka "AX3200" without damage
 You will need at least one of the following, and a screwdriver:
 Plastic spudger, credit card, tooth pick, guitar pick.
 
-1. Remove the adhesive labels below the device's legs to reveal four screws.
+1. Remove the adhesive labels below the device's legs.
 (Use a razor blade/scalpel if you wish to save them)
 
-2. Unscrew the 4 flush screws, and using the spudger start at one corner of the legs.
-Work around from one end to the other slowly as the tabs unlock.
+2. Unscrew the four flush screws, and using the spudger start at one corner of the legs.
+Work from one side to the other slowly, as the tabs unlock.
 (You will hear clicks for each tab)
-NO FORCE SHOULD BE USED!
 
-3. Do the same for the other side, and remove the legs.
-You now will see two round screws this holds the PCB sled in place, ignore them for now.
+!!NO FORCE SHOULD BE USED!!
 
-4. Inside the front face of the router there's a tiny delicate clip.
-Use a rigid flat object, and place it within the inside of the clip against the walled ledge,
-and roll it off using leverage.
-(Or gently rotate the object clockwise to nudge the clip off the ledge)
-DO PULL OR PRY THE CLIP WITH FORCE, IT'S DELICATE!
+3. Do the same for the other leg, and remove the legs.
+You now will see two round screws, this holds the PCB sled in place. 
+(Ignore them for now)
+
+4. Inside the front face of the router, there's a tiny delicate clip, this is what releases the faceplate.
+Using a rigid flat object, place it between the inside of the clip and the overhang it latches into.
+Roll it off using leverage, or gently rotate a thicker object clockwise to nudge the clip from engagement.)
+
+!!DO PULL OR PRY THE CLIP WITH FORCE, IT'S DELICATE!!
 
 5. Place a "shim" between the ledge and clip to prevent the clip from re-engaging.
 Use a long object to push within the notched zone that the clip protrudes through.
-Doing this with enough force applied will expose a gap on the front face panel which a shim can be placed to hold it open.
+Doing this with enough force applied will expose a gap on the front face panel where a shim can be placed.
 
-6. Remove the shim on the clip, and run a spudger along the newly exposed face.
+6. Remove the prior shim disengaging the clip, and run a spudger along the newly exposed face releasing all of the clips.
 The shim will fall inside when all pressure is released, slowly remove the face.
 
-7. Remove the previous two round screws under the legs, and tilt the back side of the router towards the ground, the sled should fall out.
-(There's also a notched square on the top corner exposing a piece of the sled which can be pressed against)
+7. Remove the previous two round screws under the legs that hold the PCB tray inside, 
+and tilt the back side of the router towards the ground.
 
-If neither option works slide a spudger around the back side and place a shim for every notch,
-aligned with the corresponding notched areas on the front face side.
 
-8. Unplug the antennas, and remember their locations as one is for the 802.11bgn, the other 802.11ax.
+8. Unscrew the 3 outer screws to remove the PCB from the sled.
+!!THE SLED SHOULD FALL OUT!!
 
-9. Unscrew the 3 outer screws to remove the PCB from the sled.
+In the event it doesn't come loose, theres a notched square on the top corner exposing a piece of the sled.
+At first glance this might appear to be a clip but it's merely protruding part of the sled,
+which can be used to eject with the PCB with some force.
 
-DON'T REMOVE THE WHITE CIRCLED SCREWS THAT HOLD THE HEATSINK ON THE PCB!
+If neither option works, slide a spudger around the back side, and place a shim at every individual notch location,
+aligned to the corresponding notched areas on the front face side.
+
+9. Unplug the antennas, and remember their locations.
+(one is specific to 802.11bgn, the other 802.11ax)
+
+
+DON'T REMOVE THE WHITE SILKSCREEN CIRCLED SCREWS THAT HOLD THE HEATSINK ON THE PCB!
+
+Repeat the process in reverse to put back together.
