@@ -18,14 +18,14 @@ You now will see two round screws, this holds the PCB "sled" in place.
 (Ignore them for now)
 
 4. Inside the front face of the router, there's a tiny delicate clip, this is what releases the faceplate.
-Using a rigid flat object, place it between the inside of the clip and the overhang it latches into.
-Roll it off using leverage, or gently rotate a thicker object clockwise to nudge the clip from engagement.)
+Using a rigid flat object, place it between the inside of the clip, and the overhang it latches into.
+Roll it off using leverage, or gently rotate a thicker object clockwise to nudge the clip from engagement.
 
 !!DO PULL OR PRY THE CLIP WITH FORCE, IT'S DELICATE!!
 
-5. Place a "shim" between the ledge and clip to prevent the clip from re-engaging.
-Use a long object to push within the notched zone that the clip protrudes through.
-Doing this with enough force applied will expose a gap on the front face panel where a shim can be placed.
+5. Place a "shim" between the ledge, and clip to prevent the clip from re-engaging.
+Use a long thin object to push within the notched zone that the clip protrudes through. 
+Doing this with enough force applied will expose a gap on the front face panel where a shim can be wedged in place to prevent it from shutting.
 
 6. Remove the prior shim disengaging the clip, and run a spudger along the newly exposed face releasing all of the clips.
 The shim will fall inside when all pressure is released, slowly remove the face.
@@ -39,8 +39,8 @@ and tilt the back side of the router towards the ground.
 !!THE SLED SHOULD FALL OUT!!
 
 In the event it doesn't come loose, theres a notched square on the top corner exposing a piece of the sled.
-At first glance this might appear to be a clip but it's merely a protruding part of the sled,
-which can be used to eject with the PCB with some force.
+At first glance this might appear to be a clip but it's merely a protruding part of the sled.
+This can be used to forcibly eject the sled with some force.
 
 If neither option works, slide a spudger around the back side, and place a shim at every individual notch location,
 aligned to the corresponding notched areas on the front face side.
