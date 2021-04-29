@@ -47,7 +47,6 @@ aligned to the corresponding notched areas on the front face side.
 9. Unplug the antennas, and remember their locations.
 (one is specific to 802.11bgn, the other 802.11ax)
 
-
-DON'T REMOVE THE WHITE SILKSCREEN CIRCLED SCREWS THAT HOLD THE HEATSINK ON THE PCB!
+!!DON'T REMOVE THE WHITE SILKSCREEN CIRCLED SCREWS THAT HOLD THE HEATSINK ON THE PCB!!
 
 Repeat the process in reverse to put back together.
