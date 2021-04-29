@@ -1,4 +1,4 @@
-##Disassemble the RT3200 without damage
+Disassemble the RT3200 without damage
 (allowing access to serial, and JTAG.)
 
 You will need at least one of the following, and a screwdriver:
@@ -10,7 +10,7 @@ Plastic spudger, credit card, tooth pick, guitar pick.
 2. Unscrew the 4 flush screws, and using the spudger start at one corner of the legs.
 Work around from one end to the other slowly as the tabs unlock.
 (You will hear clicks for each tab)
-##No force should be used
+NO FORCE SHOULD BE USED!
 
 3. Do the same for the other side, and remove the legs.
 You now will see two round screws this holds the PCB sled in place, ignore them for now.
@@ -19,7 +19,7 @@ You now will see two round screws this holds the PCB sled in place, ignore them 
 Use a rigid flat object, and place it within the inside of the clip against the walled ledge,
 and roll it off using leverage.
 (Or gently rotate the object clockwise to nudge the clip off the ledge)
-##DO PULL OR PRY THE CLIP WITH FORCE, IT'S DELICATE!
+DO PULL OR PRY THE CLIP WITH FORCE, IT'S DELICATE!
 
 5. Place a "shim" between the ledge and clip to prevent the clip from re-engaging.
 Use a long object to push within the notched zone that the clip protrudes through.
@@ -38,4 +38,4 @@ aligned with the corresponding notched areas on the front face side.
 
 9. Unscrew the 3 outer screws to remove the PCB from the sled.
 
-##DON'T REMOVE THE WHITE CIRCLED SCREWS THAT HOLD THE HEATSINK ON THE PCB!
+DON'T REMOVE THE WHITE CIRCLED SCREWS THAT HOLD THE HEATSINK ON THE PCB!
