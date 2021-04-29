@@ -1,0 +1,41 @@
+##Disassemble the RT3200 without damage
+(allowing access to serial, and JTAG.)
+
+You will need at least one of the following, and a screwdriver:
+Plastic spudger, credit card, tooth pick, guitar pick.
+
+1. Remove the adhesive labels below the device's legs to reveal four screws.
+(Use a razor blade/scalpel if you wish to save them)
+
+2. Unscrew the 4 flush screws, and using the spudger start at one corner of the legs.
+Work around from one end to the other slowly as the tabs unlock.
+(You will hear clicks for each tab)
+##No force should be used
+
+3. Do the same for the other side, and remove the legs.
+You now will see two round screws this holds the PCB sled in place, ignore them for now.
+
+4. Inside the front face of the router there's a tiny delicate clip.
+Use a rigid flat object, and place it within the inside of the clip against the walled ledge,
+and roll it off using leverage.
+(Or gently rotate the object clockwise to nudge the clip off the ledge)
+##DO PULL OR PRY THE CLIP WITH FORCE, IT'S DELICATE!
+
+5. Place a "shim" between the ledge and clip to prevent the clip from re-engaging.
+Use a long object to push within the notched zone that the clip protrudes through.
+Doing this with enough force applied will expose a gap on the front face panel which a shim can be placed to hold it open.
+
+6. Remove the shim on the clip, and run a spudger along the newly exposed face.
+The shim will fall inside when all pressure is released, slowly remove the face.
+
+7. Remove the previous two round screws under the legs, and tilt the back side of the router towards the ground, the sled should fall out.
+(There's also a notched square on the top corner exposing a piece of the sled which can be pressed against)
+
+If neither option works slide a spudger around the back side and place a shim for every notch,
+aligned with the corresponding notched areas on the front face side.
+
+8. Unplug the antennas, and remember their locations as one is for the 802.11bgn, the other 802.11ax.
+
+9. Unscrew the 3 outer screws to remove the PCB from the sled.
+
+##DON'T REMOVE THE WHITE CIRCLED SCREWS THAT HOLD THE HEATSINK ON THE PCB!
