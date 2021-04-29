@@ -1,4 +1,4 @@
-Disassemble the RT3200 without damage
+Disassemble the Belkin "RT3200", aka "AX3200" without damage
 (allowing access to serial, and JTAG.)
 
 You will need at least one of the following, and a screwdriver:
